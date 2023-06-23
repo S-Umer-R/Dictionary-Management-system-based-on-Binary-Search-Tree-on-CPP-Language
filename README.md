@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for your Git repository, along with information about the binary search tree usage in your project:
-
 # Dictionary Management System
 
 This is a Dictionary Management System implemented in C++. It allows users to store and manage word definitions using a binary search tree data structure.
